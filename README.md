@@ -5,6 +5,8 @@ I'm a passionate **Software Engineer** and **Web Developer** with a strong focus
 Currently pursuing a **B.Sc. in Computer Science and Engineering** at United International University, Dhaka, Bangladesh. 
 
 ---
+## 📊 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Kamrul-hassan1438&style=flat-square&color=blue)
 
 ## 🔧 Skills
 
