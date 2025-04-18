@@ -5,6 +5,7 @@ I'm a passionate **Software Engineer** and **Web Developer** with a strong focus
 Currently pursuing a **B.Sc. in Computer Science and Engineering** at United International University, Dhaka, Bangladesh. 
 
 ---
+[![LeetCode](https://your-image-hosting-service.com/leetcode-logo.png)](https://leetcode.com/u/dyYlFLJJWZ/)
 ---
 #codeforces
 
