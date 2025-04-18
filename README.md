@@ -4,11 +4,10 @@ I'm a passionate **Software Engineer** and **Web Developer** with a strong focus
 
 Currently pursuing a **B.Sc. in Computer Science and Engineering** at United International University, Dhaka, Bangladesh. 
 
----
-[![LeetCode](https://your-image-hosting-service.com/leetcode-logo.png)](https://leetcode.com/u/dyYlFLJJWZ/)
----
-#codeforces
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-dyYlFLJJWZ-blueviolet?style=flat-square)](https://leetcode.com/u/dyYlFLJJWZ/)
+
+---
 [![Codeforces](https://img.shields.io/badge/Codeforces-kamrul212153-blueviolet?style=flat-square&logo=codeforces)](https://codeforces.com/profile/kamrul212153)
 ---
 ## 📊 Profile Stats
