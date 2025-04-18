@@ -5,9 +5,10 @@ I'm a passionate **Software Engineer** and **Web Developer** with a strong focus
 Currently pursuing a **B.Sc. in Computer Science and Engineering** at United International University, Dhaka, Bangladesh. 
 
 ---
+---
 #codeforces
 
-![codeforces]([https://komarev.com/ghpvc/?username=Kamrul-hassan1438&style=flat-square&color=blue](https://codeforces.com/profile/kamrul212153))
+[![Codeforces](https://img.shields.io/badge/Codeforces-kamrul212153-blueviolet?style=flat-square&logo=codeforces)](https://codeforces.com/profile/kamrul212153)
 ---
 ## 📊 Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Kamrul-hassan1438&style=flat-square&color=blue)
