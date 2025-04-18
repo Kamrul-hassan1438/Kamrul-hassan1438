@@ -4,6 +4,14 @@ I'm a passionate **Software Engineer** and **Web Developer** with a strong focus
 
 Currently pursuing a **B.Sc. in Computer Science and Engineering** at United International University, Dhaka, Bangladesh. 
 
+---
+
+#linkedin
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--kamrul--hassan-blueviolet?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-kamrul-hassan-aba94a1a0/)
+
+---
+---
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-dyYlFLJJWZ-blueviolet?style=flat-square)](https://leetcode.com/u/dyYlFLJJWZ/)
 
