@@ -1,6 +1,6 @@
 # Hi, I'm Md. Kamrul Hassan 👋
 
-I'm a passionate **Software Engineer** and **Web Developer** with a strong focus on backend development, API design, and scalable systems. I’m dedicated to creating efficient solutions, exploring new technologies, and evolving into a **Full-Stack Developer**. I thrive in fast-paced environments and love tackling challenges with a problem-solving mindset.
+I'm a passionate **CSE GRADUATE**  with a strong focus on backend development, API design, and scalable systems. I’m dedicated to creating efficient solutions, exploring new technologies, and evolving into a **Full-Stack Developer**. I thrive in fast-paced environments and love tackling challenges with a problem-solving mindset.
 
 Currently pursuing a **B.Sc. in Computer Science and Engineering** at United International University, Dhaka, Bangladesh. 
 
