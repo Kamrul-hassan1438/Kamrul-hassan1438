@@ -86,6 +86,6 @@ _Hardware-based drone project_
 
 - **Email**: [mdkamrulhasansagur4441@gmail.com](mailto:mdkamrulhasansagur4441@gmail.com)  
 - **Phone**: +880 1748-587483  
-- **GitHub**: [github.com/username](https://github.com/Kamrul-hassan1438)  
+- **GitHub**: [github.com/Kamrul-hassan1438](https://github.com/Kamrul-hassan1438)  
 
 Feel free to reach out for collaboration, project ideas, or just to chat about tech!
