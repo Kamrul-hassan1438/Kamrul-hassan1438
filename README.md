@@ -84,7 +84,7 @@ _Hardware-based drone project_
 
 ## 📫 Get in Touch
 
-- **Email**: [ndkamrulhasansagur4441@gmail.com](mailto:ndkamrulhasansagur4441@gmail.com)  
+- **Email**: [mdkamrulhasansagur4441@gmail.com](mailto:mdkamrulhasansagur4441@gmail.com)  
 - **Phone**: +880 1748-587483  
 - **GitHub**: [github.com/username](https://github.com/Kamrul-hassan1438)  
 
