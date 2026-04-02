@@ -1,6 +1,10 @@
 # Hi, I'm Md. Kamrul Hassan 👋
 
-I'm a passionate **CSE GRADUATE**  with a strong focus on backend development, API design, and scalable systems. I’m dedicated to creating efficient solutions, exploring new technologies, and evolving into a **Full-Stack Developer**. I thrive in fast-paced environments and love tackling challenges with a problem-solving mindset.
+Passionate Backend Developer with expertise in Django and Flask, focused on building scalable systems,
+robust APIs, and microservices architectures. Strong proficiency in Python and problem-solving, with
+hands-on experience in Docker, Redis, AWS EC2, and WebSockets. Experienced in developing real-world
+solutions, including core banking systems (Temenos T24) and AI-integrated platforms. Quick learner,
+adaptable, and equipped with a solid foundation in algorithms and data structures.
 
 **B.Sc. in Computer Science and Engineering** at United International University, Dhaka, Bangladesh. 
 
@@ -22,22 +26,18 @@ I'm a passionate **CSE GRADUATE**  with a strong focus on backend development, A
 ## 🔧 Skills
 
 - **Programming Languages**: C/C++, Python, Java, JavaScript  
-- **Databases**: MySQL  
+- **Databases**: MySQL, Mongodb 
 - **Frontend**: HTML5, CSS, React.js, Bootstrap  
 - **Backend**: Django, Flask, PHP, Node.js  
-- **Tools & Platforms**: Git, GitHub, Figma, Postman, Docker  
+- **Tools & Platforms**: Git, GitHub, Figma, Postman, Docker, n8n
 - **Machine Learning**: NumPy, Matplotlib, PyTorch, Gemini AI  
-- **Specialties**: REST APIs, WebSockets 
+- **Specialties**: REST APIs, WebSockets
+- **Core Banking**: Temenos T24 (Transact), TAFJ, EB APIs, Version & Service Routines
 
 ---
 
 ## 🌱 Currently Exploring
-
-- **Docker & Containerization**: Enhancing deployment efficiency and scalability  
-- **Automation Tools**: n8n, Make.com for workflow automation  
 - **Voice AI**: Vapi.ai for real-time AI-powered voice agents  
-- **LLM Security & Jailbreak Research**: Analyzing vulnerabilities and ethical considerations in large language models
-- **Mongodb**: NOSQL Database
 
 ---
 
